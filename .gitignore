@@ -68,3 +68,4 @@ wger-venv/
 package-lock.json
 **/migrations/*
 *.swp
+.DS_Store
